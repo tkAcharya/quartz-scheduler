@@ -27,3 +27,9 @@ timer/.mvn/wrapper/maven-wrapper.properties
 timer/mvnw
 timer/mvnw.cmd
 timer/.mvn/wrapper/MavenWrapperDownloader.java
+timer/target/classes/application.properties
+timer/.settings/org.eclipse.m2e.core.prefs
+timer/.settings/org.eclipse.jdt.core.prefs
+timer/.settings/org.eclipse.core.resources.prefs
+timer/.project
+timer/.classpath
