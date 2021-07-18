@@ -1,4 +1,4 @@
-package com.schedulerDemo.timer.schedulerService;
+package com.schedulerDemo.timer.service;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
