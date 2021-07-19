@@ -52,6 +52,7 @@ public class SchedulerService {
 		
 		try {
 			scheduler.scheduleJob(jobDetail, trigger);
+			logs.info("SchedulerService "+info.getString());
 		} catch (Exception e) {
 			logs.error("Error in triggering scheduler e:"+e.getMessage());
 		}
